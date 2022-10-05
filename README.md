@@ -15,3 +15,17 @@
  13. git --help (It provides list of commands offer by git)
  14. git switch (Use to switch between different branches)
  15. git merge (Use to merge code between the branches)
+ 
+### Task 1
+![Screenshot 2022-10-05 191130](https://user-images.githubusercontent.com/102010266/194121276-695634e1-eaee-4cd3-9587-ed3a8cc8c511.png)
+![Screenshot 2022-10-05 222724](https://user-images.githubusercontent.com/102010266/194121292-fccf5c8c-246e-41b0-8cde-7fe3ce529918.png)
+![Screenshot 2022-10-05 222748](https://user-images.githubusercontent.com/102010266/194121309-144ce35c-a6c5-48a3-ad37-39fa34fb10ef.png)
+![Screenshot 2022-10-05 222808](https://user-images.githubusercontent.com/102010266/194121324-8535b040-5a51-40e5-bd70-e7e277e7e52e.png)
+
+## Task 3
+![Screenshot 2022-10-05 223117](https://user-images.githubusercontent.com/102010266/194121352-38a342d9-5ecb-43c2-9be2-716d5e28acd8.png)
+![Screenshot 2022-10-05 223648](https://user-images.githubusercontent.com/102010266/194121370-fbe8d791-8d0b-42df-8eb7-6c6eaa3afb54.png)
+![Screenshot 2022-10-05 223924](https://user-images.githubusercontent.com/102010266/194121396-e438c771-6fea-4968-8cb1-a9309ad5ae1b.png)
+![Screenshot 2022-10-05 224334](https://user-images.githubusercontent.com/102010266/194121440-10637a64-d5a1-4ffe-aaf8-6810ffbce030.png)
+
+
