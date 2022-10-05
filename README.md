@@ -23,7 +23,7 @@
 ![Screenshot 2022-10-05 222808](https://user-images.githubusercontent.com/102010266/194121324-8535b040-5a51-40e5-bd70-e7e277e7e52e.png)
 
 ## Task 2
-![Screenshot 2022-10-05 225520](https://user-images.githubusercontent.com/102010266/194123619-3c375daa-6cd7-46d2-b909-7ccbd85d393c.png)
+![Screenshot 2022-10-05 225906](https://user-images.githubusercontent.com/102010266/194124023-fbd1ce13-3a51-408e-81c5-1b901e13e0cf.png)
 
 
 ## Task 3
