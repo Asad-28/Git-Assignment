@@ -22,6 +22,10 @@
 ![Screenshot 2022-10-05 222748](https://user-images.githubusercontent.com/102010266/194121309-144ce35c-a6c5-48a3-ad37-39fa34fb10ef.png)
 ![Screenshot 2022-10-05 222808](https://user-images.githubusercontent.com/102010266/194121324-8535b040-5a51-40e5-bd70-e7e277e7e52e.png)
 
+## Task 2
+![Screenshot 2022-10-05 225520](https://user-images.githubusercontent.com/102010266/194123619-3c375daa-6cd7-46d2-b909-7ccbd85d393c.png)
+
+
 ## Task 3
 ![Screenshot 2022-10-05 223117](https://user-images.githubusercontent.com/102010266/194121352-38a342d9-5ecb-43c2-9be2-716d5e28acd8.png)
 ![Screenshot 2022-10-05 223648](https://user-images.githubusercontent.com/102010266/194121370-fbe8d791-8d0b-42df-8eb7-6c6eaa3afb54.png)
